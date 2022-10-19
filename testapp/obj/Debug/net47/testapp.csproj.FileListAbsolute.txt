@@ -1,0 +1,15 @@
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.csproj.AssemblyReference.cache
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.AssemblyInfoInputs.cache
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.AssemblyInfo.cs
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.csproj.CoreCompileInputs.cache
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\testapp.exe.config
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\testapp.exe
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\testapp.pdb
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\System.Net.Http.Formatting.dll
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\System.Web.Http.dll
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\bin\Debug\net47\Newtonsoft.Json.dll
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.csproj.CopyComplete
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.exe
+C:\Users\pchan\OneDrive\Documents\Assessment\testapp\obj\Debug\net47\testapp.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZsUIvm7yEWDiWh7FPLNylyWUvWgohbO2iFg+xct149aC94sgnaVgDXLnnPR1ISZTaA9BvGBZvZKyBGwLRoT7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pchan\\OneDrive\\Documents\\Assessment\\testapp\\testapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pchan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\pchan\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
+    "C:\\Users\\pchan\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
